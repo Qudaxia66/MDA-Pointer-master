@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/training_ptr_gen/train_util_sen_coverage.py" />
+    <file url="file://$PROJECT_DIR$/training_ptr_gen/train_word_sen2.py" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (tensorflow2.0) (2)" project-jdk-type="Python SDK" />
+</project>
